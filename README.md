@@ -28,6 +28,37 @@ It culminates in a **Growth Potential Index (GPI)** and an interactive, premium 
     *   ⚖️ **Side-by-Side Comparison:** Compare financial metrics and margins of multiple venues.
 
 ---
+## 🛠️ Tech Stack
+Programming Language: Python 3.10+
+
+Data Manipulation & Math: pandas, numpy
+
+Machine Learning & Dimensionality Reduction: scikit-learn (StandardScaler, MinMaxScaler, PCA, KMeans), umap-learn
+
+Data Visualization & Dashboarding: streamlit, plotly (plotly.express, plotly.graph_objects)
+---
+
+## 🧠 Algorithms Used
+Principal Component Analysis (PCA): Used to compress 30+ features into 10 principal components, reducing dimensionality and uncovering latent factors (e.g., separating "Scale" from "Cost Pressure").
+
+Uniform Manifold Approximation and Projection (UMAP): Used for advanced non-linear dimensionality reduction to create the 2D coordinates (umap_x, umap_y) used for the interactive scatter map.
+
+K-Means Clustering: The core unsupervised learning algorithm used to group 1,000 restaurants into 5 distinct operational archetypes based on their PCA-reduced features.
+
+Hierarchical Clustering (Ward's Method): Used as a robustness check to validate the K-Means results (achieved a strong Adjusted Rand Index agreement).
+
+Min-Max & Standard Scaling: Algorithms used to normalize varying numerical scales (preventing revenue in thousands from dominating percentage rates).
+
+Rule-Based Classification Engine: A custom logic framework to automatically assign the 5 archetype names and 4 strategic recommendations based on cluster profiles and GPI scores.
+---
+
+## 👤 Author Info
+Name: Krishiv Kager
+Role: Data Science Intern 
+Project: SkyCity Auckland Restaurants & Bars – Growth Potential Modeling
+Email: rotarykrio@gmail.com
+
+---
 
 ## 📂 Repository Structure
 
