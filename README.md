@@ -5,7 +5,7 @@ An end-to-end Data Science and Machine Learning pipeline designed to classify 1,
 ---
 ## 🔍 Research Paper
 
-Goggle Doc :https://drive.google.com/drive/folders/1EsJskRtTWcmf-NEOPxhoky5ft2ngHAJ-?usp=drive_link
+### Goggle Doc :https://drive.google.com/drive/folders/1EsJskRtTWcmf-NEOPxhoky5ft2ngHAJ-?usp=drive_link
 ---
 ## 📖 Project Overview
 Not all restaurants should pursue the same growth strategy. Traditional models optimize for current profit but fail to assess structural readiness for expansion. This project utilizes unsupervised machine learning to discover hidden patterns across 30+ dimensions, classifying venues into distinct profiles (e.g., "Aggregator-Dependent Low-Margin" vs. "Scalable Self-Delivery Leaders"). 
