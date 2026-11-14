@@ -1,9 +1,3 @@
-"""
-app.py
--------
-Enhanced Premium Dashboard with Dark Mode, Hover Effects, and Custom CSS.
-Run with: python -m streamlit run app.py
-"""
 
 import streamlit as st
 import pandas as pd
