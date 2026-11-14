@@ -49,13 +49,12 @@ Hierarchical Clustering (Ward's Method): Used as a robustness check to validate 
 
 Min-Max & Standard Scaling: Algorithms used to normalize varying numerical scales (preventing revenue in thousands from dominating percentage rates).
 
-Rule-Based Classification Engine: A custom logic framework to automatically assign the 5 archetype names and 4 strategic recommendations based on cluster profiles and GPI scores.
 ---
 
 ## 👤 Author Info
-Name: Krishiv Kager
-Role: Data Science Intern 
-Project: SkyCity Auckland Restaurants & Bars – Growth Potential Modeling
+Name: Krishiv Kage \
+Role: Data Science Intern \
+Project: SkyCity Auckland Restaurants & Bars – Growth Potential Modeling \
 Email: rotarykrio@gmail.com
 
 ---
